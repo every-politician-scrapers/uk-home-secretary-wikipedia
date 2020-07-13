@@ -41,6 +41,12 @@ class HolderItem < Scraped::HTML
     Date.parse(end_text) rescue nil
   end
 
+  field :replaces do
+  end
+
+  field :replaced_by do
+  end
+
   def empty?
     name.to_s == ''
   end
@@ -63,6 +69,11 @@ end
 url = URI.encode 'https://en.wikipedia.org/wiki/Home_Secretary'
 data = Scraped::Scraper.new(url => MembersPage).scraper.officeholders
 
-header = data.first.keys.to_csv
+data.each_cons(2) do |prev, cur|
+  cur[:replaces] = prev[:id]
+  prev[:replaced_by] = cur[:id]
+end
+
+header = data[1].keys.to_csv
 rows = data.map { |row| row.values.to_csv }
 puts header + rows.join
