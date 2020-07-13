@@ -1,0 +1,1173 @@
+[
+  {
+    "item": {
+      "value": "Q333896",
+      "label": "Robert Carr"
+    },
+    "statement": "Q333896$A0E57AD9-B724-4D84-BEAA-D17A4F4FD009"
+  },
+  {
+    "item": {
+      "value": "Q336534",
+      "label": "Merlyn Rees"
+    },
+    "statement": "Q336534$E4D7682E-0F39-4631-94F2-57E3969CC188"
+  },
+  {
+    "item": {
+      "value": "Q5078492",
+      "label": "Charles Gurney Seymour"
+    },
+    "statement": "Q5078492$6357B3B7-F0B1-4A9D-8EFB-3D0235066231"
+  },
+  {
+    "item": {
+      "value": "Q7906065",
+      "label": "V. K. Duggal"
+    },
+    "statement": "Q7906065$A7A6197E-EA6E-4D7F-AA31-C1C5EB275DEC"
+  },
+  {
+    "item": {
+      "value": "Q312573",
+      "label": "William Petty, 2nd Earl of Shelburne"
+    },
+    "replaces": {
+      "value": "Q1968514",
+      "label": "David Murray, 2nd Earl of Mansfield"
+    },
+    "replacedBy": {
+      "value": "Q332533",
+      "label": "Thomas Townshend, 1st Viscount Sydney"
+    },
+    "statement": "Q312573$166513B2-6B92-4FF2-8039-C73FB8FFF746",
+    "start": "1782-03-27T00:00:00Z",
+    "end": "1782-07-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332533",
+      "label": "Thomas Townshend, 1st Viscount Sydney"
+    },
+    "replaces": {
+      "value": "Q312573",
+      "label": "William Petty, 2nd Earl of Shelburne"
+    },
+    "replacedBy": {
+      "value": "Q312593",
+      "label": "Frederick North"
+    },
+    "statement": "Q332533$F4B9A586-6747-4612-8113-4B2051190683",
+    "start": "1782-07-10T00:00:00Z",
+    "end": "1783-04-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q312593",
+      "label": "Frederick North"
+    },
+    "replaces": {
+      "value": "Q332533",
+      "label": "Thomas Townshend, 1st Viscount Sydney"
+    },
+    "replacedBy": {
+      "value": "Q333744",
+      "label": "George Nugent-Temple-Grenville, 1st Marquess of Buckingham"
+    },
+    "statement": "Q312593$029804C1-8884-4AC7-AAA7-F791F2043192",
+    "start": "1783-04-02T00:00:00Z",
+    "end": "1783-12-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q312596",
+      "label": "William Wyndham Grenville, 1st Baron Grenville"
+    },
+    "replaces": {
+      "value": "Q332533",
+      "label": "Thomas Townshend, 1st Viscount Sydney"
+    },
+    "replacedBy": {
+      "value": "Q335351",
+      "label": "Henry Dundas, 1st Viscount Melville"
+    },
+    "statement": "Q312596$AD88F82D-8465-432E-B3F3-7A2F95EBE7DC",
+    "start": "1789-06-05T00:00:00Z",
+    "end": "1791-06-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q335351",
+      "label": "Henry Dundas, 1st Viscount Melville"
+    },
+    "replaces": {
+      "value": "Q312596",
+      "label": "William Wyndham Grenville, 1st Baron Grenville"
+    },
+    "replacedBy": {
+      "value": "Q157208",
+      "label": "William Cavendish-Bentinck, 3rd Duke of Portland"
+    },
+    "statement": "Q335351$5fc3005e-4317-45a0-988b-6189a3883334",
+    "start": "1791-01-01T00:00:00Z",
+    "end": "1794-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q335351",
+      "label": "Henry Dundas, 1st Viscount Melville"
+    },
+    "replaces": {
+      "value": "Q312596",
+      "label": "William Wyndham Grenville, 1st Baron Grenville"
+    },
+    "replacedBy": {
+      "value": "Q157208",
+      "label": "William Cavendish-Bentinck, 3rd Duke of Portland"
+    },
+    "statement": "Q335351$27A08B54-28C8-4DB0-B896-C61B4438C0D7",
+    "start": "1791-06-08T00:00:00Z",
+    "end": "1794-07-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q157208",
+      "label": "William Cavendish-Bentinck, 3rd Duke of Portland"
+    },
+    "replaces": {
+      "value": "Q335351",
+      "label": "Henry Dundas, 1st Viscount Melville"
+    },
+    "replacedBy": {
+      "value": "Q337864",
+      "label": "Thomas Pelham, 2nd Earl of Chichester"
+    },
+    "statement": "Q157208$8AB25C0C-B9A4-4F52-94F6-4FDA06EC2B73",
+    "start": "1794-07-11T00:00:00Z",
+    "end": "1801-07-30T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q337864",
+      "label": "Thomas Pelham, 2nd Earl of Chichester"
+    },
+    "replaces": {
+      "value": "Q157208",
+      "label": "William Cavendish-Bentinck, 3rd Duke of Portland"
+    },
+    "replacedBy": {
+      "value": "Q5081631",
+      "label": "Charles Philip Yorke"
+    },
+    "statement": "Q337864$25547401-D323-4EFF-A5C2-551DF091793F",
+    "start": "1801-07-30T00:00:00Z",
+    "end": "1803-08-17T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5081631",
+      "label": "Charles Philip Yorke"
+    },
+    "replaces": {
+      "value": "Q337864",
+      "label": "Thomas Pelham, 2nd Earl of Chichester"
+    },
+    "replacedBy": {
+      "value": "Q312569",
+      "label": "Robert Jenkinson, 2nd Earl of Liverpool"
+    },
+    "statement": "Q5081631$D8C51E89-E829-4CEA-B008-E32FB28792E7",
+    "start": "1803-08-17T00:00:00Z",
+    "end": "1804-05-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332521",
+      "label": "George Spencer, 2nd Earl Spencer"
+    },
+    "replaces": {
+      "value": "Q312569",
+      "label": "Robert Jenkinson, 2nd Earl of Liverpool"
+    },
+    "replacedBy": {
+      "value": "Q312569",
+      "label": "Robert Jenkinson, 2nd Earl of Liverpool"
+    },
+    "statement": "Q332521$BC9F9E4D-D1B2-4AB9-A78A-F13E2DA244FC",
+    "start": "1806-02-05T00:00:00Z",
+    "end": "1807-03-25T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q312569",
+      "label": "Robert Jenkinson, 2nd Earl of Liverpool"
+    },
+    "replaces": {
+      "value": "Q332521",
+      "label": "George Spencer, 2nd Earl Spencer"
+    },
+    "replacedBy": {
+      "value": "Q7328800",
+      "label": "Richard Ryder"
+    },
+    "statement": "Q312569$C2749E8E-DDD8-46A6-A397-A805CB98FDA2",
+    "start": "1807-03-25T00:00:00Z",
+    "end": "1809-11-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7328800",
+      "label": "Richard Ryder"
+    },
+    "replaces": {
+      "value": "Q312569",
+      "label": "Robert Jenkinson, 2nd Earl of Liverpool"
+    },
+    "replacedBy": {
+      "value": "Q312577",
+      "label": "Henry Addington, 1st Viscount Sidmouth"
+    },
+    "statement": "Q7328800$1C0B46B2-4BD4-41C1-9C9C-0C0B4AE26D35",
+    "start": "1809-11-01T00:00:00Z",
+    "end": "1812-06-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q312577",
+      "label": "Henry Addington, 1st Viscount Sidmouth"
+    },
+    "replaces": {
+      "value": "Q7328800",
+      "label": "Richard Ryder"
+    },
+    "replacedBy": {
+      "value": "Q181875",
+      "label": "Robert Peel"
+    },
+    "statement": "Q312577$071F78CE-1525-4E7E-B8A8-B3DF68F676DC",
+    "start": "1812-06-08T00:00:00Z",
+    "end": "1822-01-17T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332639",
+      "label": "Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne"
+    },
+    "replaces": {
+      "value": "Q8018954",
+      "label": "William Sturges Bourne"
+    },
+    "replacedBy": {
+      "value": "Q181875",
+      "label": "Robert Peel"
+    },
+    "statement": "Q332639$7701A01D-18F7-4690-A6EF-3E5006E5B6A9",
+    "start": "1827-07-16T00:00:00Z",
+    "end": "1828-01-22T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q181875",
+      "label": "Robert Peel"
+    },
+    "replaces": {
+      "value": "Q332639",
+      "label": "Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne"
+    },
+    "replacedBy": {
+      "value": "Q312567",
+      "label": "William Lamb, 2nd Viscount Melbourne"
+    },
+    "statement": "Q181875$E9E2FAA9-E03D-40C6-8874-AF79CEF30CCF",
+    "start": "1828-01-26T00:00:00Z",
+    "end": "1830-11-22T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q312567",
+      "label": "William Lamb, 2nd Viscount Melbourne"
+    },
+    "replacedBy": {
+      "value": "Q6253138",
+      "label": "John Ponsonby, 4th Earl of Bessborough"
+    },
+    "statement": "Q312567$05FFE3CB-5F2F-461C-A054-B58B74F9C7AE",
+    "start": "1830-11-22T00:00:00Z",
+    "end": "1834-07-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6253138",
+      "label": "John Ponsonby, 4th Earl of Bessborough"
+    },
+    "replaces": {
+      "value": "Q312567",
+      "label": "William Lamb, 2nd Viscount Melbourne"
+    },
+    "replacedBy": {
+      "value": "Q131691",
+      "label": "Arthur Wellesley, 1st Duke of Wellington"
+    },
+    "statement": "Q6253138$40B16A4D-6EF0-4A1D-86C2-A13B1B8D12D4",
+    "start": "1834-07-19T00:00:00Z",
+    "end": "1834-11-15T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q131691",
+      "label": "Arthur Wellesley, 1st Duke of Wellington"
+    },
+    "replaces": {
+      "value": "Q6253138",
+      "label": "John Ponsonby, 4th Earl of Bessborough"
+    },
+    "replacedBy": {
+      "value": "Q5722116",
+      "label": "Henry Goulburn"
+    },
+    "statement": "Q131691$9bb28d02-4272-eb9c-9507-aa581ce5a544",
+    "start": "1834-11-15T00:00:00Z",
+    "end": "1834-12-15T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5722116",
+      "label": "Henry Goulburn"
+    },
+    "replaces": {
+      "value": "Q131691",
+      "label": "Arthur Wellesley, 1st Duke of Wellington"
+    },
+    "replacedBy": {
+      "value": "Q157259",
+      "label": "John Russell, 1st Earl Russell"
+    },
+    "statement": "Q5722116$5E0EDE6D-DC08-4B00-B79D-A349FA3B7381",
+    "start": "1834-12-15T00:00:00Z",
+    "end": "1835-04-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q157259",
+      "label": "John Russell, 1st Earl Russell"
+    },
+    "replaces": {
+      "value": "Q5722116",
+      "label": "Henry Goulburn"
+    },
+    "statement": "Q157259$E8F0C9B7-C152-4334-BB7A-78A0D77588FD",
+    "start": "1835-04-18T00:00:00Z",
+    "end": "1839-08-30T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q338153",
+      "label": "Constantine Phipps, 1st Marquess of Normanby"
+    },
+    "replaces": {
+      "value": "Q157259",
+      "label": "John Russell, 1st Earl Russell"
+    },
+    "replacedBy": {
+      "value": "Q333983",
+      "label": "Sir James Graham, 2nd Baronet"
+    },
+    "statement": "Q338153$3ABDFA18-F358-4E59-987D-324FDED85F2D",
+    "start": "1839-08-30T00:00:00Z",
+    "end": "1841-08-30T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333983",
+      "label": "Sir James Graham, 2nd Baronet"
+    },
+    "replaces": {
+      "value": "Q338153",
+      "label": "Constantine Phipps, 1st Marquess of Normanby"
+    },
+    "replacedBy": {
+      "value": "Q5771276",
+      "label": "Sir George Grey, 2nd Baronet"
+    },
+    "statement": "Q333983$15CFB539-AA9E-499C-8323-5A9DF10251E4",
+    "start": "1841-09-06T00:00:00Z",
+    "end": "1846-06-30T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5771276",
+      "label": "Sir George Grey, 2nd Baronet"
+    },
+    "replaces": {
+      "value": "Q333983",
+      "label": "Sir James Graham, 2nd Baronet"
+    },
+    "replacedBy": {
+      "value": "Q7576083",
+      "label": "Spencer Horatio Walpole"
+    },
+    "statement": "Q5771276$C368459B-A62D-446E-93EC-78938CD19349",
+    "start": "1846-07-08T00:00:00Z",
+    "end": "1852-02-23T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q193656",
+      "label": "Henry Temple, 3rd Viscount Palmerston"
+    },
+    "replaces": {
+      "value": "Q7576083",
+      "label": "Spencer Horatio Walpole"
+    },
+    "replacedBy": {
+      "value": "Q5771276",
+      "label": "Sir George Grey, 2nd Baronet"
+    },
+    "statement": "Q193656$4E2A8827-BEF6-4D7B-BEFC-F965DB48D1D1",
+    "start": "1852-12-28T00:00:00Z",
+    "end": "1855-02-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1230681",
+      "label": "Sir George Cornewall Lewis, 2nd Baronet"
+    },
+    "replaces": {
+      "value": "Q7790328",
+      "label": "Thomas Sotheron-Estcourt"
+    },
+    "replacedBy": {
+      "value": "Q5771276",
+      "label": "Sir George Grey, 2nd Baronet"
+    },
+    "statement": "Q1230681$7190FC2A-056A-4254-921E-7BAE8780E298",
+    "start": "1859-06-18T00:00:00Z",
+    "end": "1861-07-25T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5771276",
+      "label": "Sir George Grey, 2nd Baronet"
+    },
+    "replaces": {
+      "value": "Q1230681",
+      "label": "Sir George Cornewall Lewis, 2nd Baronet"
+    },
+    "replacedBy": {
+      "value": "Q7576083",
+      "label": "Spencer Horatio Walpole"
+    },
+    "statement": "Q5771276$FDB66633-1A89-407B-B853-155D72C74473",
+    "start": "1861-07-25T00:00:00Z",
+    "end": "1866-06-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5527395",
+      "label": "Gathorne Gathorne-Hardy, 1st Earl of Cranbrook"
+    },
+    "replaces": {
+      "value": "Q7576083",
+      "label": "Spencer Horatio Walpole"
+    },
+    "replacedBy": {
+      "value": "Q335550",
+      "label": "Henry Bruce, 1st Baron Aberdare"
+    },
+    "statement": "Q5527395$97079A2F-B194-4D34-925A-1877122AEE62",
+    "start": "1867-05-17T00:00:00Z",
+    "end": "1868-12-03T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q335550",
+      "label": "Henry Bruce, 1st Baron Aberdare"
+    },
+    "replaces": {
+      "value": "Q5527395",
+      "label": "Gathorne Gathorne-Hardy, 1st Earl of Cranbrook"
+    },
+    "replacedBy": {
+      "value": "Q334355",
+      "label": "Robert Lowe"
+    },
+    "statement": "Q335550$D970BE50-B0BB-47E1-93BD-F9D38098183F",
+    "start": "1868-12-09T00:00:00Z",
+    "end": "1873-08-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334355",
+      "label": "Robert Lowe"
+    },
+    "replaces": {
+      "value": "Q335550",
+      "label": "Henry Bruce, 1st Baron Aberdare"
+    },
+    "replacedBy": {
+      "value": "Q5613675",
+      "label": "Richard Assheton Cross, 1st Viscount Cross"
+    },
+    "statement": "Q334355$46D013C9-C5C0-4B44-8772-94A712A42003",
+    "start": "1873-08-09T00:00:00Z",
+    "end": "1874-02-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5613675",
+      "label": "Richard Assheton Cross, 1st Viscount Cross"
+    },
+    "replaces": {
+      "value": "Q334355",
+      "label": "Robert Lowe"
+    },
+    "replacedBy": {
+      "value": "Q775821",
+      "label": "William Vernon Harcourt"
+    },
+    "statement": "Q5613675$7B144A9C-A57F-4FAE-B66E-31D287BD472D",
+    "start": "1874-02-21T00:00:00Z",
+    "end": "1880-04-23T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q775821",
+      "label": "William Vernon Harcourt"
+    },
+    "replaces": {
+      "value": "Q5613675",
+      "label": "Richard Assheton Cross, 1st Viscount Cross"
+    },
+    "replacedBy": {
+      "value": "Q5613675",
+      "label": "Richard Assheton Cross, 1st Viscount Cross"
+    },
+    "statement": "Q775821$35EA5516-9B73-49CA-99DC-51414F818253",
+    "start": "1880-04-28T00:00:00Z",
+    "end": "1885-06-23T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1217502",
+      "label": "Hugh Childers"
+    },
+    "replaces": {
+      "value": "Q5613675",
+      "label": "Richard Assheton Cross, 1st Viscount Cross"
+    },
+    "replacedBy": {
+      "value": "Q3132951",
+      "label": "Henry Matthews, 1st Viscount Llandaff"
+    },
+    "statement": "Q1217502$A989707C-7D84-4AAC-8367-248BB8AF1EE6",
+    "start": "1886-02-06T00:00:00Z",
+    "end": "1886-07-25T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q166714",
+      "label": "H. H. Asquith"
+    },
+    "replaces": {
+      "value": "Q3132951",
+      "label": "Henry Matthews, 1st Viscount Llandaff"
+    },
+    "replacedBy": {
+      "value": "Q337696",
+      "label": "Matthew White Ridley, 1st Viscount Ridley"
+    },
+    "statement": "Q166714$EC3A85EF-6E31-4022-9A51-5E9BFB2534DE",
+    "start": "1892-08-18T00:00:00Z",
+    "end": "1895-06-25T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q669029",
+      "label": "Charles Ritchie, 1st Baron Ritchie of Dundee"
+    },
+    "replaces": {
+      "value": "Q337696",
+      "label": "Matthew White Ridley, 1st Viscount Ridley"
+    },
+    "replacedBy": {
+      "value": "Q13426124",
+      "label": "Aretas Akers-Douglas, 1st Viscount Chilston"
+    },
+    "statement": "Q669029$177A4FC8-FC60-4809-96B4-DA13968806D0",
+    "start": "1900-11-12T00:00:00Z",
+    "end": "1902-07-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q13426124",
+      "label": "Aretas Akers-Douglas, 1st Viscount Chilston"
+    },
+    "replaces": {
+      "value": "Q669029",
+      "label": "Charles Ritchie, 1st Baron Ritchie of Dundee"
+    },
+    "replacedBy": {
+      "value": "Q2347324",
+      "label": "Herbert Gladstone, 1st Viscount Gladstone"
+    },
+    "statement": "Q13426124$FE6B5755-5554-4237-9496-F02D0298089F",
+    "start": "1902-07-12T00:00:00Z",
+    "end": "1905-12-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q8016",
+      "label": "Winston Churchill"
+    },
+    "replaces": {
+      "value": "Q2347324",
+      "label": "Herbert Gladstone, 1st Viscount Gladstone"
+    },
+    "replacedBy": {
+      "value": "Q333710",
+      "label": "Reginald McKenna"
+    },
+    "statement": "Q8016$03cae7fa-40aa-c7a0-bad1-83b10804eb2f",
+    "start": "1910-02-19T00:00:00Z",
+    "end": "1911-10-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333710",
+      "label": "Reginald McKenna"
+    },
+    "replaces": {
+      "value": "Q8016",
+      "label": "Winston Churchill"
+    },
+    "replacedBy": {
+      "value": "Q333091",
+      "label": "John Simon, 1st Viscount Simon"
+    },
+    "statement": "Q333710$6E2282B0-1976-4DA0-8F4E-34C69779C773",
+    "start": "1911-10-23T00:00:00Z",
+    "end": "1915-05-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333091",
+      "label": "John Simon, 1st Viscount Simon"
+    },
+    "replaces": {
+      "value": "Q333710",
+      "label": "Reginald McKenna"
+    },
+    "replacedBy": {
+      "value": "Q335218",
+      "label": "Herbert Samuel, 1st Viscount Samuel"
+    },
+    "statement": "Q333091$15c5b872-4eae-c15f-d773-617227f76f3d",
+    "start": "1915-05-27T00:00:00Z",
+    "end": "1916-01-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q208665",
+      "label": "Arthur Henderson"
+    },
+    "replaces": {
+      "value": "Q5586304",
+      "label": "William Bridgeman, 1st Viscount Bridgeman"
+    },
+    "replacedBy": {
+      "value": "Q330604",
+      "label": "William Joynson-Hicks, 1st Viscount Brentford"
+    },
+    "statement": "Q208665$D1EE0F28-43D2-4C83-B479-0FD02C643898",
+    "start": "1924-01-23T00:00:00Z",
+    "end": "1924-11-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q330604",
+      "label": "William Joynson-Hicks, 1st Viscount Brentford"
+    },
+    "replaces": {
+      "value": "Q208665",
+      "label": "Arthur Henderson"
+    },
+    "replacedBy": {
+      "value": "Q332915",
+      "label": "John Robert Clynes"
+    },
+    "statement": "Q330604$2BA52124-8B37-4FE9-BAAF-C973DD247C7E",
+    "start": "1924-11-07T00:00:00Z",
+    "end": "1929-06-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332915",
+      "label": "John Robert Clynes"
+    },
+    "replaces": {
+      "value": "Q330604",
+      "label": "William Joynson-Hicks, 1st Viscount Brentford"
+    },
+    "replacedBy": {
+      "value": "Q335218",
+      "label": "Herbert Samuel, 1st Viscount Samuel"
+    },
+    "statement": "Q332915$E78B8056-8511-41B5-90C6-ECE2B695FAAD",
+    "start": "1929-06-08T00:00:00Z",
+    "end": "1931-08-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q335218",
+      "label": "Herbert Samuel, 1st Viscount Samuel"
+    },
+    "replaces": {
+      "value": "Q332915",
+      "label": "John Robert Clynes"
+    },
+    "replacedBy": {
+      "value": "Q5759238",
+      "label": "Sir John Gilmour, 2nd Baronet"
+    },
+    "statement": "Q335218$00CC548C-82C9-4544-A8F9-7CBD76CBAC01",
+    "start": "1931-08-26T00:00:00Z",
+    "end": "1932-10-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333091",
+      "label": "John Simon, 1st Viscount Simon"
+    },
+    "replaces": {
+      "value": "Q5759238",
+      "label": "Sir John Gilmour, 2nd Baronet"
+    },
+    "replacedBy": {
+      "value": "Q333429",
+      "label": "Samuel Hoare, 1st Viscount Templewood"
+    },
+    "statement": "Q333091$94362EEC-85C9-4542-AE1A-CF0268BC860B",
+    "start": "1935-06-07T00:00:00Z",
+    "end": "1937-05-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333429",
+      "label": "Samuel Hoare, 1st Viscount Templewood"
+    },
+    "replaces": {
+      "value": "Q333091",
+      "label": "John Simon, 1st Viscount Simon"
+    },
+    "replacedBy": {
+      "value": "Q333289",
+      "label": "John Anderson, 1st Viscount Waverley"
+    },
+    "statement": "Q333429$E24C250E-717E-47A2-B702-A4093E1CF9E4",
+    "start": "1937-05-28T00:00:00Z",
+    "end": "1939-09-03T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333289",
+      "label": "John Anderson, 1st Viscount Waverley"
+    },
+    "replaces": {
+      "value": "Q333429",
+      "label": "Samuel Hoare, 1st Viscount Templewood"
+    },
+    "replacedBy": {
+      "value": "Q335791",
+      "label": "Herbert Morrison"
+    },
+    "statement": "Q333289$C8AFED86-BCA0-4AF7-9F58-01BACCDE3BD1",
+    "start": "1939-09-04T00:00:00Z",
+    "end": "1940-10-03T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334318",
+      "label": "James Chuter Ede"
+    },
+    "replaces": {
+      "value": "Q3737152",
+      "label": "Donald Somervell, Baron Somervell of Harrow"
+    },
+    "replacedBy": {
+      "value": "Q334337",
+      "label": "David Maxwell Fyfe, 1st Earl of Kilmuir"
+    },
+    "statement": "Q334318$90CD73B7-72B0-4878-A455-2C5DC0AAFEB0",
+    "start": "1945-08-03T00:00:00Z",
+    "end": "1951-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334337",
+      "label": "David Maxwell Fyfe, 1st Earl of Kilmuir"
+    },
+    "replaces": {
+      "value": "Q334318",
+      "label": "James Chuter Ede"
+    },
+    "replacedBy": {
+      "value": "Q333823",
+      "label": "Gwilym Lloyd George, 1st Viscount Tenby"
+    },
+    "statement": "Q334337$73024DCC-5E47-40BC-B356-172458023307",
+    "start": "1951-10-27T00:00:00Z",
+    "end": "1954-10-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q182035",
+      "label": "Rab Butler"
+    },
+    "replaces": {
+      "value": "Q333823",
+      "label": "Gwilym Lloyd George, 1st Viscount Tenby"
+    },
+    "replacedBy": {
+      "value": "Q333889",
+      "label": "Henry Brooke, Baron Brooke of Cumnor"
+    },
+    "statement": "Q182035$0E5D1C27-C18F-43FD-BB14-6497C2856D97",
+    "start": "1957-01-14T00:00:00Z",
+    "end": "1962-07-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q9576",
+      "label": "James Callaghan"
+    },
+    "replaces": {
+      "value": "Q323488",
+      "label": "Roy Jenkins"
+    },
+    "replacedBy": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "statement": "Q9576$198ACFEA-BD55-4C89-B2DA-10DB5E35D150",
+    "start": "1967-11-30T00:00:00Z",
+    "end": "1970-06-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "replaces": {
+      "value": "Q9576",
+      "label": "James Callaghan"
+    },
+    "replacedBy": {
+      "value": "Q333896",
+      "label": "Robert Carr"
+    },
+    "statement": "Q333275$7993D995-AA76-4370-A094-F0DD281484F9",
+    "start": "1970-06-20T00:00:00Z",
+    "end": "1972-07-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q323488",
+      "label": "Roy Jenkins"
+    },
+    "replaces": {
+      "value": "Q333896",
+      "label": "Robert Carr"
+    },
+    "replacedBy": {
+      "value": "Q336534",
+      "label": "Merlyn Rees"
+    },
+    "statement": "Q323488$594C6D88-7861-4A30-9647-20DBD39136D7",
+    "start": "1974-03-05T00:00:00Z",
+    "end": "1976-09-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333963",
+      "label": "Willie Whitelaw"
+    },
+    "replaces": {
+      "value": "Q336534",
+      "label": "Merlyn Rees"
+    },
+    "replacedBy": {
+      "value": "Q332607",
+      "label": "Leon Brittan"
+    },
+    "statement": "Q333963$F595EA79-21AC-4889-870B-4038EB077C2A",
+    "start": "1979-05-04T00:00:00Z",
+    "end": "1983-06-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332607",
+      "label": "Leon Brittan"
+    },
+    "replaces": {
+      "value": "Q333963",
+      "label": "Willie Whitelaw"
+    },
+    "replacedBy": {
+      "value": "Q337375",
+      "label": "Douglas Hurd"
+    },
+    "statement": "Q332607$453e7ec0-45a0-24a5-bea1-ec383e5ef57b",
+    "start": "1983-06-11T00:00:00Z",
+    "end": "1985-09-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q337375",
+      "label": "Douglas Hurd"
+    },
+    "replaces": {
+      "value": "Q332607",
+      "label": "Leon Brittan"
+    },
+    "replacedBy": {
+      "value": "Q334565",
+      "label": "David Waddington, Baron Waddington"
+    },
+    "statement": "Q337375$C3C3E32C-836F-463A-8C70-4F350688CDCC",
+    "start": "1985-09-02T00:00:00Z",
+    "end": "1989-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334565",
+      "label": "David Waddington, Baron Waddington"
+    },
+    "replaces": {
+      "value": "Q337375",
+      "label": "Douglas Hurd"
+    },
+    "replacedBy": {
+      "value": "Q333390",
+      "label": "Kenneth Baker, Baron Baker of Dorking"
+    },
+    "statement": "Q334565$271621E2-129B-4672-A867-2B15FA5FCE8F",
+    "start": "1989-10-26T00:00:00Z",
+    "end": "1990-11-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333390",
+      "label": "Kenneth Baker, Baron Baker of Dorking"
+    },
+    "replaces": {
+      "value": "Q334565",
+      "label": "David Waddington, Baron Waddington"
+    },
+    "replacedBy": {
+      "value": "Q271889",
+      "label": "Kenneth Clarke"
+    },
+    "statement": "Q333390$F56BA906-0D4C-4D75-99E3-5D996587407C",
+    "start": "1990-11-28T00:00:00Z",
+    "end": "1992-04-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q271889",
+      "label": "Kenneth Clarke"
+    },
+    "replaces": {
+      "value": "Q333390",
+      "label": "Kenneth Baker, Baron Baker of Dorking"
+    },
+    "replacedBy": {
+      "value": "Q325381",
+      "label": "Michael Howard"
+    },
+    "statement": "Q271889$447EC2CA-25D2-4E76-8AE4-824ADE7B4424",
+    "start": "1992-04-10T00:00:00Z",
+    "end": "1993-05-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q325381",
+      "label": "Michael Howard"
+    },
+    "replaces": {
+      "value": "Q271889",
+      "label": "Kenneth Clarke"
+    },
+    "replacedBy": {
+      "value": "Q311278",
+      "label": "Jack Straw"
+    },
+    "statement": "Q325381$8BCBD2DB-0E30-4D14-B2AB-07DAC5FE6485",
+    "start": "1993-05-27T00:00:00Z",
+    "end": "1997-05-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q311278",
+      "label": "Jack Straw"
+    },
+    "replaces": {
+      "value": "Q325381",
+      "label": "Michael Howard"
+    },
+    "replacedBy": {
+      "value": "Q264196",
+      "label": "David Blunkett"
+    },
+    "statement": "Q311278$B8B2B6DD-885C-446E-9522-670F336D130E",
+    "start": "1997-05-02T00:00:00Z",
+    "end": "2001-06-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q264196",
+      "label": "David Blunkett"
+    },
+    "statement": "Q264196$4849f8f3-4b58-2af5-c4c5-09e13e401ba2",
+    "start": "2001-06-08T00:00:00Z",
+    "end": "2004-12-15T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333758",
+      "label": "Charles Clarke"
+    },
+    "replaces": {
+      "value": "Q264196",
+      "label": "David Blunkett"
+    },
+    "replacedBy": {
+      "value": "Q333461",
+      "label": "John Reid, Baron Reid of Cardowan"
+    },
+    "statement": "Q333758$F91BEFF5-15CD-4983-9C75-CA15A08882AF",
+    "start": "2004-12-15T00:00:00Z",
+    "end": "2006-05-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333461",
+      "label": "John Reid, Baron Reid of Cardowan"
+    },
+    "replaces": {
+      "value": "Q333758",
+      "label": "Charles Clarke"
+    },
+    "replacedBy": {
+      "value": "Q237217",
+      "label": "Jacqui Smith"
+    },
+    "statement": "Q333461$17246A05-DC60-415A-B1A6-6D8BCAB6D1B7",
+    "start": "2006-05-05T00:00:00Z",
+    "end": "2007-06-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q237217",
+      "label": "Jacqui Smith"
+    },
+    "replaces": {
+      "value": "Q333461",
+      "label": "John Reid, Baron Reid of Cardowan"
+    },
+    "replacedBy": {
+      "value": "Q332336",
+      "label": "Alan Johnson"
+    },
+    "statement": "Q237217$0ABBD91C-35BE-45B8-9CB7-8C810E2D421A",
+    "start": "2007-06-28T00:00:00Z",
+    "end": "2009-06-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332336",
+      "label": "Alan Johnson"
+    },
+    "replaces": {
+      "value": "Q237217",
+      "label": "Jacqui Smith"
+    },
+    "replacedBy": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "statement": "Q332336$D919403C-92D1-4DB7-8A6B-0C508D611DB0",
+    "start": "2009-06-05T00:00:00Z",
+    "end": "2010-05-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "replaces": {
+      "value": "Q332336",
+      "label": "Alan Johnson"
+    },
+    "replacedBy": {
+      "value": "Q479171",
+      "label": "Amber Rudd"
+    },
+    "statement": "Q264766$991F425B-8320-49D7-BF6B-EE06C8E970A1",
+    "start": "2010-05-12T00:00:00Z",
+    "end": "2016-07-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q479171",
+      "label": "Amber Rudd"
+    },
+    "replaces": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "replacedBy": {
+      "value": "Q727798",
+      "label": "Sajid Javid"
+    },
+    "statement": "Q479171$cba84ee5-488a-c1e1-9b5c-453c51640283",
+    "start": "2016-07-13T00:00:00Z",
+    "end": "2018-04-29T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q30729111",
+      "label": "Laurent Nuñez"
+    },
+    "statement": "Q30729111$242f7ac8-441c-d830-2717-3e84cc95a37e",
+    "start": "2018-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q727798",
+      "label": "Sajid Javid"
+    },
+    "replaces": {
+      "value": "Q479171",
+      "label": "Amber Rudd"
+    },
+    "replacedBy": {
+      "value": "Q575733",
+      "label": "Priti Patel"
+    },
+    "statement": "Q727798$7289c8ec-458b-4180-b2df-b4bfd99f15f9",
+    "start": "2018-04-30T00:00:00Z",
+    "end": "2019-07-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q575733",
+      "label": "Priti Patel"
+    },
+    "replaces": {
+      "value": "Q727798",
+      "label": "Sajid Javid"
+    },
+    "statement": "Q575733$2b95d8db-41b3-b0c0-372e-7a79f9116810",
+    "start": "2019-07-24T00:00:00Z"
+  }
+]
