@@ -76,6 +76,14 @@
       "value": "Q333744",
       "label": "George Nugent-Temple-Grenville, 1st Marquess of Buckingham"
     },
+    "replaces": {
+      "value": "Q312593",
+      "label": "Frederick North"
+    },
+    "replacedBy": {
+      "value": "Q332533",
+      "label": "Thomas Townshend, 1st Viscount Sydney"
+    },
     "statement": "Q333744$F2390136-198A-45D6-B767-8E0AB8B79CAE",
     "start": "1783-12-19T00:00:00Z",
     "end": "1783-12-23T00:00:00Z"
@@ -255,6 +263,14 @@
       "value": "Q8018954",
       "label": "William Sturges Bourne"
     },
+    "replaces": {
+      "value": "Q181875",
+      "label": "Robert Peel"
+    },
+    "replacedBy": {
+      "value": "Q332639",
+      "label": "Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne"
+    },
     "statement": "Q8018954$3DF3EC42-B0EE-4C2E-804B-312DECDB255A",
     "start": "1827-04-30T00:00:00Z",
     "end": "1827-07-16T00:00:00Z"
@@ -297,6 +313,10 @@
     "item": {
       "value": "Q312567",
       "label": "William Lamb, 2nd Viscount Melbourne"
+    },
+    "replaces": {
+      "value": "Q181875",
+      "label": "Robert Peel"
     },
     "replacedBy": {
       "value": "Q6253138",
@@ -365,6 +385,10 @@
     "replaces": {
       "value": "Q5722116",
       "label": "Henry Goulburn"
+    },
+    "replacedBy": {
+      "value": "Q338153",
+      "label": "Constantine Phipps, 1st Marquess of Normanby"
     },
     "statement": "Q157259$E8F0C9B7-C152-4334-BB7A-78A0D77588FD",
     "start": "1835-04-18T00:00:00Z",
@@ -442,6 +466,14 @@
     "item": {
       "value": "Q7790328",
       "label": "Thomas Sotheron-Estcourt"
+    },
+    "replaces": {
+      "value": "Q7576083",
+      "label": "Spencer Horatio Walpole"
+    },
+    "replacedBy": {
+      "value": "Q1230681",
+      "label": "Sir George Cornewall Lewis, 2nd Baronet"
     },
     "statement": "Q7790328$8B53559F-2602-4C2E-BCEE-2DC1EA12031F",
     "start": "1859-03-03T00:00:00Z",
@@ -588,6 +620,14 @@
       "value": "Q3132951",
       "label": "Henry Matthews, 1st Viscount Llandaff"
     },
+    "replaces": {
+      "value": "Q1217502",
+      "label": "Hugh Childers"
+    },
+    "replacedBy": {
+      "value": "Q166714",
+      "label": "H. H. Asquith"
+    },
     "statement": "Q3132951$1A15580A-D08E-4871-A240-3210A92E0F1E",
     "start": "1886-08-03T00:00:00Z",
     "end": "1892-08-15T00:00:00Z"
@@ -613,6 +653,14 @@
     "item": {
       "value": "Q337696",
       "label": "Matthew White Ridley, 1st Viscount Ridley"
+    },
+    "replaces": {
+      "value": "Q166714",
+      "label": "H. H. Asquith"
+    },
+    "replacedBy": {
+      "value": "Q669029",
+      "label": "Charles Ritchie, 1st Baron Ritchie of Dundee"
     },
     "statement": "Q337696$A49C8247-050D-4F0F-AA81-5BDA2BDD85E3",
     "start": "1895-06-29T00:00:00Z",
@@ -656,6 +704,14 @@
     "item": {
       "value": "Q2347324",
       "label": "Herbert Gladstone, 1st Viscount Gladstone"
+    },
+    "replaces": {
+      "value": "Q13426124",
+      "label": "Aretas Akers-Douglas, 1st Viscount Chilston"
+    },
+    "replacedBy": {
+      "value": "Q8016",
+      "label": "Winston Churchill"
     },
     "statement": "Q2347324$A6978311-A0B2-47DD-A49F-28ABA5181886",
     "start": "1905-12-11T00:00:00Z",
@@ -717,6 +773,14 @@
       "value": "Q334436",
       "label": "George Cave, 1st Viscount Cave"
     },
+    "replaces": {
+      "value": "Q335218",
+      "label": "Herbert Samuel, 1st Viscount Samuel"
+    },
+    "replacedBy": {
+      "value": "Q5345322",
+      "label": "Edward Shortt"
+    },
     "statement": "Q334436$A0CDA416-7416-48ED-ABF6-02EAB2B2FB38",
     "start": "1916-12-11T00:00:00Z",
     "end": "1919-01-14T00:00:00Z"
@@ -726,6 +790,14 @@
       "value": "Q5345322",
       "label": "Edward Shortt"
     },
+    "replaces": {
+      "value": "Q334436",
+      "label": "George Cave, 1st Viscount Cave"
+    },
+    "replacedBy": {
+      "value": "Q5586304",
+      "label": "William Bridgeman, 1st Viscount Bridgeman"
+    },
     "statement": "Q5345322$85EF4ACE-062B-487A-B017-E82CE16096F7",
     "start": "1919-01-14T00:00:00Z",
     "end": "1922-10-23T00:00:00Z"
@@ -734,6 +806,14 @@
     "item": {
       "value": "Q5586304",
       "label": "William Bridgeman, 1st Viscount Bridgeman"
+    },
+    "replaces": {
+      "value": "Q5345322",
+      "label": "Edward Shortt"
+    },
+    "replacedBy": {
+      "value": "Q208665",
+      "label": "Arthur Henderson"
     },
     "statement": "Q5586304$13E21043-F057-4A9E-B1B2-A303A77C48B4",
     "start": "1922-10-25T00:00:00Z",
@@ -812,6 +892,14 @@
       "value": "Q5759238",
       "label": "Sir John Gilmour, 2nd Baronet"
     },
+    "replaces": {
+      "value": "Q335218",
+      "label": "Herbert Samuel, 1st Viscount Samuel"
+    },
+    "replacedBy": {
+      "value": "Q333091",
+      "label": "John Simon, 1st Viscount Simon"
+    },
     "statement": "Q5759238$83A75BA7-869E-433B-8433-4197E062076B",
     "start": "1932-10-01T00:00:00Z",
     "end": "1935-06-07T00:00:00Z"
@@ -872,6 +960,14 @@
       "value": "Q335791",
       "label": "Herbert Morrison"
     },
+    "replaces": {
+      "value": "Q333289",
+      "label": "John Anderson, 1st Viscount Waverley"
+    },
+    "replacedBy": {
+      "value": "Q3737152",
+      "label": "Donald Somervell, Baron Somervell of Harrow"
+    },
     "statement": "Q335791$72948D07-FA0D-45AF-92AB-E49921AD2035",
     "start": "1940-10-04T00:00:00Z",
     "end": "1945-05-23T00:00:00Z"
@@ -880,6 +976,14 @@
     "item": {
       "value": "Q3737152",
       "label": "Donald Somervell, Baron Somervell of Harrow"
+    },
+    "replaces": {
+      "value": "Q335791",
+      "label": "Herbert Morrison"
+    },
+    "replacedBy": {
+      "value": "Q334318",
+      "label": "James Chuter Ede"
     },
     "statement": "Q3737152$6666B762-B9DE-495C-AEC1-6B965FF16660",
     "start": "1945-05-25T00:00:00Z",
@@ -924,6 +1028,14 @@
       "value": "Q333823",
       "label": "Gwilym Lloyd George, 1st Viscount Tenby"
     },
+    "replaces": {
+      "value": "Q334337",
+      "label": "David Maxwell Fyfe, 1st Earl of Kilmuir"
+    },
+    "replacedBy": {
+      "value": "Q182035",
+      "label": "Rab Butler"
+    },
     "statement": "Q333823$67AA30B8-2178-4CD6-9FB6-B0844DF1DC04",
     "start": "1954-10-19T00:00:00Z",
     "end": "1957-01-14T00:00:00Z"
@@ -950,6 +1062,14 @@
       "value": "Q333889",
       "label": "Henry Brooke, Baron Brooke of Cumnor"
     },
+    "replaces": {
+      "value": "Q182035",
+      "label": "Rab Butler"
+    },
+    "replacedBy": {
+      "value": "Q333387",
+      "label": "Frank Soskice, Baron Stow Hill"
+    },
     "statement": "Q333889$B825E57D-98F3-48DF-BA84-4AED2C870817",
     "start": "1962-07-14T00:00:00Z",
     "end": "1964-10-16T00:00:00Z"
@@ -958,6 +1078,14 @@
     "item": {
       "value": "Q333387",
       "label": "Frank Soskice, Baron Stow Hill"
+    },
+    "replaces": {
+      "value": "Q333889",
+      "label": "Henry Brooke, Baron Brooke of Cumnor"
+    },
+    "replacedBy": {
+      "value": "Q323488",
+      "label": "Roy Jenkins"
     },
     "statement": "Q333387$A76E57BC-B2D9-41EF-99C3-7A98668547E2",
     "start": "1964-10-18T00:00:00Z",
@@ -1002,6 +1130,14 @@
       "value": "Q333896",
       "label": "Robert Carr"
     },
+    "replaces": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "replacedBy": {
+      "value": "Q323488",
+      "label": "Roy Jenkins"
+    },
     "statement": "Q333896$A0E57AD9-B724-4D84-BEAA-D17A4F4FD009",
     "start": "1972-07-18T00:00:00Z",
     "end": "1974-03-04T00:00:00Z"
@@ -1027,6 +1163,14 @@
     "item": {
       "value": "Q336534",
       "label": "Merlyn Rees"
+    },
+    "replaces": {
+      "value": "Q323488",
+      "label": "Roy Jenkins"
+    },
+    "replacedBy": {
+      "value": "Q333963",
+      "label": "Willie Whitelaw"
     },
     "statement": "Q336534$E4D7682E-0F39-4631-94F2-57E3969CC188",
     "start": "1976-09-10T00:00:00Z",
@@ -1172,6 +1316,14 @@
     "item": {
       "value": "Q264196",
       "label": "David Blunkett"
+    },
+    "replaces": {
+      "value": "Q311278",
+      "label": "Jack Straw"
+    },
+    "replacedBy": {
+      "value": "Q333758",
+      "label": "Charles Clarke"
     },
     "statement": "Q264196$4849f8f3-4b58-2af5-c4c5-09e13e401ba2",
     "start": "2001-06-08T00:00:00Z",
