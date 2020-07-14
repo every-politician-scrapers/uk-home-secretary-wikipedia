@@ -41,6 +41,7 @@ class InputFile
 
     'replaced_by' => 'P1366',
     'replacedby' => 'P1366',
+    'replacedBy' => 'P1366',
 
     'cause' => 'P1534',
     'end_cause' => 'P1534',
