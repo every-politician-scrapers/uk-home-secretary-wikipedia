@@ -19,15 +19,19 @@ wikidata = InputFile::JSON.new(wikidata_file)
 wptally = wikipedia.data.map { |r| r[:id] }.tally
 wdtally = wikidata.data.map { |r| r[:id] }.tally
 
-wikipedia.data.each do |to_add|
-  next unless wptally[to_add[:id]] > wdtally[to_add[:id]]
+wikipedia.data.each do |wp|
+  next unless wptally[wp[:id]] > wdtally[wp[:id]]
+  existing = wikidata.find(wp[:id])
 
-  warn "\n#{to_add[:name]}: WP: #{wptally[to_add[:id]]} // WD: #{wdtally[to_add[:id]]}"
-  # TODO check if any of the existing have the same dates
-  wikidata.find(to_add[:id]).each do |existing|
-    warn "    WD has #{existing[:P580]} – #{existing[:P582]}"
+  # Skip this entry if anything in WD has the same start/end date
+  # TODO: check for anything in an overlapping range
+  next if existing.any? { |wd| (wp[:P580] == wd[:P580]) || (wp[:P582] == wd[:P582]) }
+
+  warn "\n#{wp[:name]}: WP: #{wptally[wp[:id]]} // WD: #{wdtally[wp[:id]]}"
+  existing.each do |wd|
+    warn "    WD has #{wd[:P580]} – #{wd[:P582]}"
   end
 
-  warn "    To add #{to_add[:P580]} - #{to_add[:P582]} call:"
-  puts ['wd ee add_full_P39.js', to_add.values_at(:id, :P580, :P582, :P1365, :P1366)].join(' ')
+  warn "    To add #{wp[:P580]} - #{wp[:P582]} call:"
+  puts ['add_full_P39.js', wp.values_at(:id, :P580, :P582, :P1365, :P1366)].join(' ')
 end
