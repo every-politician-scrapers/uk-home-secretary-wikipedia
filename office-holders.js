@@ -5,6 +5,8 @@ module.exports = office => `
   SELECT ?statement ?item ?itemLabel ?replaces ?replacesLabel ?replacedBy ?replacedByLabel ?start ?end WHERE {
     ?item p:P39 ?statement.
     ?statement ps:P39 wd:${office}.
+    MINUS { ?statement wikibase:rank wikibase:DeprecatedRank. }
+
     OPTIONAL { ?statement pq:P580 ?start }
     OPTIONAL { ?statement pq:P582 ?end }
     OPTIONAL { ?statement pq:P1365 ?replaces }
