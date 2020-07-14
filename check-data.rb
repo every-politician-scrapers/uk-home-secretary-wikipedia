@@ -84,21 +84,15 @@ end
 wikipedia = InputFile::CSV.new(wikipedia_file)
 wikidata = InputFile::JSON.new(wikidata_file)
 
-no_P39s = []
+wptally = wikipedia.data.map { |r| r[:id] }.tally
+wdtally = wikidata.data.map { |r| r[:id] }.tally
+no_P39s = wptally.keys - wdtally.keys
 
 wikipedia.data.each do |to_add|
-  next if to_add[:id].empty?
+  # TODO: warn which ones we're skipping (but only once each)
+  next unless (wptally[to_add[:id]] == 1) && (wdtally[to_add[:id]] == 1)
+
   existing = wikidata.find(to_add[:id])
-
-  if existing.empty?
-    no_P39s << to_add[:id]
-    next
-  end
-
-  if existing.count > 1
-    warn "More than one existing Wikidata P39 for #{to_add[:id]}"
-    next
-  end
 
   to_add.keys.select { |key| key[/^P\d+/] }.each do |property|
     wp_value = to_add[property]
@@ -120,5 +114,5 @@ wikipedia.data.each do |to_add|
   end
 end
 
-warn "## No suitable P39s for:\n\t#{no_P39s.uniq.join ' '}" if no_P39s.any?
+warn "## No suitable P39s for:\n\t#{no_P39s.join ' '}" if no_P39s.any?
 
