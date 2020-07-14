@@ -8,13 +8,6 @@
   },
   {
     "item": {
-      "value": "Q7906065",
-      "label": "V. K. Duggal"
-    },
-    "statement": "Q7906065$A7A6197E-EA6E-4D7F-AA31-C1C5EB275DEC"
-  },
-  {
-    "item": {
       "value": "Q7576083",
       "label": "Spencer Horatio Walpole"
     },
@@ -770,6 +763,23 @@
   },
   {
     "item": {
+      "value": "Q335218",
+      "label": "Herbert Samuel, 1st Viscount Samuel"
+    },
+    "replaces": {
+      "value": "Q333091",
+      "label": "John Simon, 1st Viscount Simon"
+    },
+    "replacedBy": {
+      "value": "Q334436",
+      "label": "George Cave, 1st Viscount Cave"
+    },
+    "statement": "Q335218$FBFE1C3C-4725-42FE-AA47-5D5CC6D0B02A",
+    "start": "1916-01-12T00:00:00Z",
+    "end": "1916-12-07T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q334436",
       "label": "George Cave, 1st Viscount Cave"
     },
@@ -1090,6 +1100,23 @@
     "statement": "Q333387$A76E57BC-B2D9-41EF-99C3-7A98668547E2",
     "start": "1964-10-18T00:00:00Z",
     "end": "1965-12-23T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q323488",
+      "label": "Roy Jenkins"
+    },
+    "replaces": {
+      "value": "Q333387",
+      "label": "Frank Soskice, Baron Stow Hill"
+    },
+    "replacedBy": {
+      "value": "Q9576",
+      "label": "James Callaghan"
+    },
+    "statement": "Q323488$970DF26E-46FB-4E49-9089-B4EDC34893C2",
+    "start": "1965-12-23T00:00:00Z",
+    "end": "1967-11-30T00:00:00Z"
   },
   {
     "item": {
